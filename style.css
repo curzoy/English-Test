@@ -37,8 +37,9 @@ html,body{
     transition: all 0.3s ease;
 }
 
-.container{
-    width: 400px;
+.container{ 
+    padding: 20px;
+    width: 600px;
     height: 200px;
     border-radius: 5px;
     padding: 20px 15px;
